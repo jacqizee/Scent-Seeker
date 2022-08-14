@@ -2,11 +2,13 @@
 
 FROM node:18.7.0-alpine
 
+ENV NODE_ENV=development
+
 WORKDIR /Users/Jacqueline/Development/Scent-Seeker/frontend
 
-COPY package.json package.json
-COPY yarn.lock yarn.lock
-
-RUN yarn start
-
 COPY . .
+
+RUN yarn add react-scripts
+RUN yarn
+
+EXPOSE 3000
