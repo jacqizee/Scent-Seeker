@@ -4,7 +4,7 @@ from rest_framework.response import Response
 from rest_framework import status
 from rest_framework.exceptions import ValidationError, PermissionDenied
 from django.contrib.auth import get_user_model
-from serializers.common import UserSerializer
+from .serializers.common import UserSerializer
 from django.conf import settings
 import jwt
 from datetime import datetime, timedelta
@@ -32,7 +32,7 @@ class RegisterView(APIView):
 # Methods: POST
 class LoginView(APIView):
     def post(self, request):
-        username = request.data.get('password')
+        username = request.data.get('username')
         password = request.data.get('password')
 
         try:
