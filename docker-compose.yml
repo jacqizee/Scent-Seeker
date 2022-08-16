@@ -8,18 +8,22 @@ services:
     volumes:
       - ./data/db:/var/lib/postgresql/data
     environment:
-      - POSTGRES_DB=postgres-ss
+      - POSTGRES_DB=scentseeker
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
+    ports:
+      - 5431:5432
     
   backend:
     restart: always
     container_name: backend
+    volumes:
+      - .:/Users/Jacqueline/Development/Scent-Seeker/
     build:
       context: ./backend
       dockerfile: Dockerfile
     environment:
-      - POSTGRES_NAME=postgres-ss
+      - POSTGRES_NAME=scentseeker
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     ports:
