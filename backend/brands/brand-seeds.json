@@ -1,0 +1,29 @@
+[
+{
+  "model": "brands.brand",
+  "pk": 1,
+  "fields": {
+    "name": "Dior",
+    "logo": "https://commons.wikimedia.org/wiki/File:Dior_Logo.svg",
+    "description": "From 1947 onwards Christian Dior proclaimed his desire to be as much a perfumer as he was a couturier: he created Miss Dior, his first perfume, alongside his very first fashion collection. Passionate about flowers, he sketched the contours of a veritable style for Dior's perfumes, breathing into them all the modernity featured in his creations."
+  }
+},
+{
+  "model": "brands.brand",
+  "pk": 2,
+  "fields": {
+    "name": "Lancôme",
+    "logo": "https://1000logos.net/lancome-logo/",
+    "description": "Lancôme launched its first five fragrances in 1935 at the World's Fair in Brussels: Tendre Nuit, Bocages, Conquete, Kypre and Tropiques. Petitjean entered into the luxury skincare market, launching Nutrix, his first \"all-purpose repair cream\" in 1936, followed by make-up, cosmetics, and skincare products."
+  }
+},
+{
+  "model": "brands.brand",
+  "pk": 3,
+  "fields": {
+    "name": "Chanel",
+    "logo": "https://en.wikipedia.org/wiki/File:Chanel_logo_interlocking_cs.svg",
+    "description": "There are few brands that have the same superstar allure as Chanel. This iconic French fashion house represents the height of of luxury fashion, beauty, and fragrance."
+  }
+}
+]

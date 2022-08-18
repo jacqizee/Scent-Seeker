@@ -1,0 +1,162 @@
+[
+{
+  "model": "note_categories.note_category",
+  "pk": 1,
+  "fields": {
+    "name": "Citruses",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 2,
+  "fields": {
+    "name": "Berries",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 3,
+  "fields": {
+    "name": "Nuts",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 4,
+  "fields": {
+    "name": "Woods",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 5,
+  "fields": {
+    "name": "Resins",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 6,
+  "fields": {
+    "name": "Florals",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 7,
+  "fields": {
+    "name": "Fruits",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 8,
+  "fields": {
+    "name": "Spices",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 9,
+  "fields": {
+    "name": "Gourmands",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 10,
+  "fields": {
+    "name": "Aromatic Herbs",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 11,
+  "fields": {
+    "name": "Musks",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 12,
+  "fields": {
+    "name": "Mosses and Lichens",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 13,
+  "fields": {
+    "name": "Leathers",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 14,
+  "fields": {
+    "name": "Synthetics",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 15,
+  "fields": {
+    "name": "Teas",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 16,
+  "fields": {
+    "name": "Amber",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 17,
+  "fields": {
+    "name": "Seeds",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 19,
+  "fields": {
+    "name": "Animalic",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 20,
+  "fields": {
+    "name": "White Florals",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 21,
+  "fields": {
+    "name": "Powdery Florals",
+    "description": ""
+  }
+}
+]

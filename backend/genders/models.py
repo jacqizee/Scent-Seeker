@@ -1,6 +1,8 @@
 from django.db import models
 
 # Create your models here.
-class Gender(models.model):
-    GENDER_CHOICES = ['Feminine', 'Masculine', 'Unisex']
-    type = models.CharField(choices=GENDER_CHOICES)
+class Gender(models.Model):
+    type = models.CharField(max_length = 15)
+
+    def __str__(self) -> str:
+        return self.type
