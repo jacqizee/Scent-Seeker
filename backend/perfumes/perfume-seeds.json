@@ -1,0 +1,321 @@
+[
+{
+  "model": "perfumes.perfume",
+  "pk": 1,
+  "fields": {
+    "name": "La Vie Est Belle",
+    "type": 1,
+    "accord": 15,
+    "gender": 1,
+    "brand": 2,
+    "description": "\"La vie est belle,\" a French expression meaning \"life is beautiful,\" is about choosing your own path to happiness and inspiring others. Joyous femininity is expressed through this energizing women's perfume.\r\nLa Vie Est Belle has fragrance notes of iris spring flowers and the intoxicating earthiness of patchouli. These are layered alongside perfume notes of delicious spun sugar and sensual warm vanilla. Plus, like a bright blooming bouquet, it also has other flowery hints of exotic Arabian jasmine sambac and sparkling Tunisian orange blossom.\r\nComplex and modern, it is a unique take on a warm and spicy fragrance with a twist of florals, and sweet gourmand.",
+    "released": "2012-01-01",
+    "image": "https://www.lancome-usa.com/on/demandware.static/-/Sites-lancome-us-master-catalog/default/dw3b39d350/3605532612768_LA_VIE_EST_BELLE_L_EAU_DE_PARFUM_50ml.jpg",
+    "top_notes": [
+      13
+    ],
+    "mid_notes": [
+      5
+    ],
+    "base_notes": [
+      8,
+      14
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 2,
+  "fields": {
+    "name": "Idôle",
+    "type": 1,
+    "accord": 12,
+    "gender": 1,
+    "brand": 2,
+    "description": "Made for women, by women.\r\nThree talented female perfumers from across the world united to create a sophisticated yet unapologetically modern fresh fragrance with notes of bright citrus, clean rose, spotless jasmine, white musks and vanilla.\r\nAt the core of this fragrance stands the most noble and iconic perfume ingredient, the rose. With four roses, Idôle’s modern, radiant, youthful rose is revealed. Jasmine absolutes accompany this unique rose scent for a clean, intense softness which blooms gracefully. \r\nEnveloping the fragrance like a cocoon, notes of bergamont explode with juicy pear and a touch of pink peppercorn. \r\nWith a profound respect for our planet and its people, Idôle invests in global communities by sourcing our ingredients ethically and sustainably. \r\n“It’s a huge honor to be able to represent a brand like Lancôme and join such an incredible line-up of iconic women,” says Idôle ambassadress, Zendaya.",
+    "released": "2019-01-01",
+    "image": "https://www.lancome-usa.com/on/demandware.static/-/Sites-lancome-us-master-catalog/default/dw30a40867/2020_LAN_FRAG_Idole_100ML_1000x1000.jpg",
+    "top_notes": [
+      1,
+      3,
+      7
+    ],
+    "mid_notes": [
+      4,
+      15
+    ],
+    "base_notes": [
+      8,
+      16,
+      12,
+      5
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 3,
+  "fields": {
+    "name": "Magie Noire",
+    "type": 3,
+    "accord": 3,
+    "gender": 1,
+    "brand": 2,
+    "description": "Magie Noire combines roses, blackcurrant, and jasmines to create the most spellbinding of all potions. An enigmatic power brewed to enchant and bewitch the senses.\r\nWomen give into it as they would to the most impassioned of love affairs and men are unable to resist its captivating power.",
+    "released": "1978-01-01",
+    "image": "https://www.amazon.com/Lancome-Magie-Noire-Toilette-Spray/dp/B00JRRO04O",
+    "top_notes": [
+      17,
+      18
+    ],
+    "mid_notes": [
+      19,
+      20
+    ],
+    "base_notes": [
+      21,
+      5,
+      22
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 4,
+  "fields": {
+    "name": "La Nuit Trésor",
+    "type": 1,
+    "accord": 16,
+    "gender": 1,
+    "brand": 2,
+    "description": "Discover La Nuit Trésor, a sultry, smouldering perfume for women with notes of fresh raspberry, frankincense, and vanilla, with a bewitching heart of Black Rose essence. \r\nThis new fragrance is Lancôme’s first ‘Gourmand Woody Fruity & Floral’ perfume, a scent of passionate love - as showcased in the new advert featuring the beautiful Penelope Cruz. \r\nThis rich and exquisite women’s perfume was crafted by two master perfumers who combined their craftsmanship to create La Nuit Trésor Eau de Parfum.\r\nBeginning with a burst of delicious raspberry, the notes of a Damascena rose have then been enhanced to give the fragrance a deep and mysterious scent. Vanilla, grown on the petals of an orchid in Tahiti, gives the fragrance a solar and radiant note.",
+    "released": "2015-01-01",
+    "image": "https://m.media-amazon.com/images/I/51S99z3M8ML._SX679_.jpg",
+    "top_notes": [
+      24,
+      23
+    ],
+    "mid_notes": [
+      28,
+      15
+    ],
+    "base_notes": [
+      25,
+      26,
+      27,
+      5
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 5,
+  "fields": {
+    "name": "Trésor Midnight Rose",
+    "type": 1,
+    "accord": 15,
+    "gender": 1,
+    "brand": 2,
+    "description": "Charming. Mischievous. Desirable. A sexy-sweet blend of raspberry, rose, vanilla and sensual musk for mischievous femininity: Catch my heart if you can!",
+    "released": "2011-01-01",
+    "image": "https://www.amazon.com/Tresor-Midnight-Rose-Edp-Spray/dp/B009CATDE8",
+    "top_notes": [
+      24,
+      18,
+      29
+    ],
+    "mid_notes": [
+      19,
+      29
+    ],
+    "base_notes": [
+      8,
+      30
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 6,
+  "fields": {
+    "name": "Trésor",
+    "type": 1,
+    "accord": 14,
+    "gender": 1,
+    "brand": 2,
+    "description": "Love. Romance. Elegance. TRÉSOR is for a woman who understands that time is precious and moments in this fast-paced world are to be treasured. Because love is a treasure, and TRÉSOR evokes that feeling of everlasting love, it makes her as radiant and precious as the fragrance she wears. Share the emotion of everlasting love with Trésor, the fragrance for treasured moments. The elegance of rose, mugent and lilac and the sparkle of peach and apricot blossom are just a few notes that define this luminous fragrance. A delicate and light fragrance with a romantic and smooth touch.",
+    "released": "1990-01-01",
+    "image": "https://www.amazon.com/TRESOR-Lancome-PARFUM-SPRAY-Fluid/dp/B005IQ2F4A",
+    "top_notes": [
+      32,
+      31
+    ],
+    "mid_notes": [
+      33,
+      34,
+      13
+    ],
+    "base_notes": [
+      8,
+      21,
+      22,
+      30
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 7,
+  "fields": {
+    "name": "Idôles L'Intense",
+    "type": 1,
+    "accord": 12,
+    "gender": 1,
+    "brand": 2,
+    "description": "Here's to the new Idôles, who daringly shine the path for others. To those whose aura radiates with success and greatness, empowering the idol that resides within each one of us.\r\nNow is your time to become a trailblazer for others. The world will shine brighter because when you succeed, you inspire others to ascend to new heights.\r\nSo ignite the flame that resides in you. It is your time to embrace your power, and inspire a generation. \r\nBe your own Idôle.",
+    "released": "2021-01-01",
+    "image": "https://i.ebayimg.com/images/g/IE4AAOSwHhNgt6l0/s-l500.jpg",
+    "top_notes": [
+      19,
+      4,
+      29
+    ],
+    "mid_notes": [
+      30
+    ],
+    "base_notes": [
+      8,
+      12
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 8,
+  "fields": {
+    "name": "La vie est belle Soleil Cristal",
+    "type": 1,
+    "accord": 15,
+    "gender": 1,
+    "brand": 2,
+    "description": "Happiness is more than a feeling, it is an aura that radiates all around like the sun on a warm summer's day. La vie est belle Soleil Cristal (Crystal Sun) eau de parfum captures the essence of a sunny summer day – warm yet fresh, made for those who live to bask in the sun.​\r\nEncased within an iridescent botte, La vie est belle Soleil Cristal perfume sparkles like a ray of sunshine, bursting with fresh white florals radiating with top fragrance notes of sparkling mandarin and a warm luminous heart of ylang-ylang, vanilla, and coconut accords.",
+    "released": "2012-01-01",
+    "image": "https://www.lancome-usa.com/on/demandware.static/-/Sites-lancome-us-master-catalog/default/dw39a30a45/3614273357203_LVEB_SOLEIL_CRISTAL.jpg",
+    "top_notes": [
+      35
+    ],
+    "mid_notes": [
+      20,
+      13
+    ],
+    "base_notes": [
+      26,
+      36,
+      37
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 9,
+  "fields": {
+    "name": "Idôle Aura",
+    "type": 1,
+    "accord": 12,
+    "gender": 1,
+    "brand": 2,
+    "description": "Idôle Aura Eau de Parfum, the first sun-kissed scent by Lancôme, teleports you to those late summer nights. This comforting and energizing fragrance eludes the essence of rose and dazzling jasmine, accented by a refreshing aroma of salted vanilla.\r\nAs unique and unstoppable as the energy that radiates from within every Idôle - share the light of success with Idôle Aura as its ambience transfers from one Idôle to another. From Idôle Aura to you and the Idôle’s who surround you.",
+    "released": "2021-01-01",
+    "image": "https://www.lancome-usa.com/on/demandware.static/-/Sites-lancome-us-master-catalog/default/dwbc453308/3614273476287-Idole-Aura-50ml.jpg",
+    "top_notes": [
+      29,
+      38
+    ],
+    "mid_notes": [
+      1,
+      19
+    ],
+    "base_notes": [
+      8,
+      39
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 10,
+  "fields": {
+    "name": "Hypnôse",
+    "type": 1,
+    "accord": 12,
+    "gender": 1,
+    "brand": 2,
+    "description": "Sensual. Seductive. Captivating. Hypnôse will draw you into a world of seduction with its captivating notes. It’s a helix of sensuality whose notes are intimately blended. Passion Flower embodies sublime femininity and makes an extraordinary radiant, bright, and youthful impression. Vanilla clings to skin to tempt and entangle with creamy softness and mouth-watering seduction. Warm Vetiver is surrounded by Passion Flower—to create a deep and lingering sensuality.",
+    "released": "2005-01-01",
+    "image": "https://images.shopdutyfree.com/image/upload/v1531412550/040/001/001/3147758235524/3147758235524_1_default_default.jpg",
+    "top_notes": [
+      40
+    ],
+    "mid_notes": [
+      8
+    ],
+    "base_notes": [
+      41
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 11,
+  "fields": {
+    "name": "La vie est belle Intensément",
+    "type": 1,
+    "accord": 15,
+    "gender": 1,
+    "brand": 2,
+    "description": "\"La vie est belle,\" a French expression meaning \"life is beautiful,\" is about choosing your own path to happiness.\r\nIntroducing a new fragrance chapter of happiness to the La vie est belle family, La vie est belle Intensément is an addictive fusion of red iris and vanilla, bringing a floral and warm intensity to the iconic perfume.\r\nHappiness lives within all of us. Energetic and intense. Lively and strong.",
+    "released": "2020-01-01",
+    "image": "https://www.lancome-usa.com/on/demandware.static/-/Sites-lancome-us-master-catalog/default/dw72759c2e/3614272964679_LVEBIntensements_50ml.jpg",
+    "top_notes": [
+      24,
+      1
+    ],
+    "mid_notes": [
+      19
+    ],
+    "base_notes": [
+      8,
+      42,
+      13,
+      22
+    ]
+  }
+},
+{
+  "model": "perfumes.perfume",
+  "pk": 12,
+  "fields": {
+    "name": "Poême",
+    "type": 1,
+    "accord": 12,
+    "gender": 1,
+    "brand": 2,
+    "description": "Spirited. Adventurous. Intuitive. A fragrance beyond words. Poême is a scent of contrasts: the icy transparent notes of Blue Himalayan Poppy embrace the intoxicating Desert Datura Flower and warm Vanilla—creating something vibrant, sensual and long-lasting.",
+    "released": "1995-01-01",
+    "image": "https://i5.walmartimages.com/asr/809089b7-e1f2-42dd-b10d-2468bb0f2849.1f59d20aaf2fa58b898c455289d2864c.jpeg",
+    "top_notes": [
+      43,
+      44
+    ],
+    "mid_notes": [
+      19,
+      11,
+      45
+    ],
+    "base_notes": [
+      8,
+      46
+    ]
+  }
+}
+]

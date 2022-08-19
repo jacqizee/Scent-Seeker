@@ -1,0 +1,44 @@
+[
+{
+  "model": "perfume_categories.perfume_category",
+  "pk": 1,
+  "fields": {
+    "type": "Eau de Parfum"
+  }
+},
+{
+  "model": "perfume_categories.perfume_category",
+  "pk": 2,
+  "fields": {
+    "type": "Parfum"
+  }
+},
+{
+  "model": "perfume_categories.perfume_category",
+  "pk": 3,
+  "fields": {
+    "type": "Eau de Toilette"
+  }
+},
+{
+  "model": "perfume_categories.perfume_category",
+  "pk": 4,
+  "fields": {
+    "type": "Eau de Cologne"
+  }
+},
+{
+  "model": "perfume_categories.perfume_category",
+  "pk": 5,
+  "fields": {
+    "type": "Eau de Fraiche"
+  }
+},
+{
+  "model": "perfume_categories.perfume_category",
+  "pk": 6,
+  "fields": {
+    "type": "Body Spray/Mist"
+  }
+}
+]

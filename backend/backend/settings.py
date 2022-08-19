@@ -40,11 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'users',
     'perfumes',
+    'perfume_categories',
     'notes',
     'note_categories',
     'genders',
     'brands',
-    'accords'
+    'accords',
 ]
 
 MIDDLEWARE = [

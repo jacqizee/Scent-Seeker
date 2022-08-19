@@ -158,5 +158,29 @@
     "name": "Powdery Florals",
     "description": ""
   }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 22,
+  "fields": {
+    "name": "Smokes",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 23,
+  "fields": {
+    "name": "Minerals",
+    "description": ""
+  }
+},
+{
+  "model": "note_categories.note_category",
+  "pk": 24,
+  "fields": {
+    "name": "Grasses",
+    "description": ""
+  }
 }
 ]

@@ -96,5 +96,19 @@
   "fields": {
     "name": "Floral Amber"
   }
+},
+{
+  "model": "accords.accord",
+  "pk": 15,
+  "fields": {
+    "name": "Fruity Floral"
+  }
+},
+{
+  "model": "accords.accord",
+  "pk": 16,
+  "fields": {
+    "name": "Gourmand"
+  }
 }
 ]
