@@ -1,3 +1,7 @@
 from django.urls import path
+from .views import SinglePerfumeView, ListPerfumeView
 
-url_patterns = []
+urlpatterns = [
+    path('', ListPerfumeView.as_view()),
+    path('<int:pk>/', SinglePerfumeView.as_view()),
+]
